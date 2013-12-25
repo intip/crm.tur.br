@@ -946,10 +946,10 @@ a .icon-flip-vertical:before {
   content: "\f0d3";
 }
 .icon-google-plus-sign:before {
-  content: "\f0d4";
+  content: "\f0e4";
 }
 .icon-google-plus:before {
-  content: "\f0d5";
+  content: "\f0e4";
 }
 .icon-money:before {
   content: "\f0d6";
@@ -1227,6 +1227,9 @@ a .icon-flip-vertical:before {
 .icon-rocket:before {
   content: "\f135";
 }
+.icon-bar-chart-o:before {
+  content: "\f080";
+}
 .icon-maxcdn:before {
   content: "\f136";
 }
@@ -1243,7 +1246,7 @@ a .icon-flip-vertical:before {
   content: "\f13a";
 }
 .icon-html5:before {
-  content: "\f13b";
+  content: "\f080";
 }
 .icon-css3:before {
   content: "\f13c";
